@@ -1,10 +1,10 @@
 # Quadratic Equations Solver
 
-[TODO. There will be project description]
+Ищет корни квадратного уравнения.
 
 # How to Use
 
-[TODO]
+Python 3
 
 # How to Launch Tests
 

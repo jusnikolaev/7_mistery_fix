@@ -1,6 +1,6 @@
 # Quadratic Equations Solver
 
-Ищет корни квадратного уравнения.
+Solve roots of Quadratic Equations.
 
 # How to Use
 

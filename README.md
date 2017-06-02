@@ -3,19 +3,23 @@
 Solve roots of Quadratic Equations.
 
 # How to Use
+Import get_roots() from quadratic_equation.py and call it with 3 arguments(number, number, number). 
 
-1. Open quadratic_equation.py
-2. Change arguments in func get_roots(a, b, c). By default (1, 1, 1)
-3. Save file
-4. Launch quadratic_equation.py with Python3
 
-In terminal: 
+Example: 
 <pre>
     <code>
-    python3 quadratic_equation.py
+    $ python3
     </code>
 </pre>
 
+<pre>
+    <code>
+    >>> from quadratic_equation import get_roots
+    >>> get_roots(1,2,3)
+    (None,None)
+    </code>
+</pre>
 
 
 # How to Launch Tests

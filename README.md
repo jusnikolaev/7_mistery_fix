@@ -4,7 +4,18 @@ Solve roots of Quadratic Equations.
 
 # How to Use
 
-Call from code get_roots() method, with variables: a, b, c. 
+1. Open quadratic_equation.py
+2. Change arguments in func get_roots(a, b, c). By default (1, 1, 1)
+3. Save file
+4. Launch quadratic_equation.py with Python3
+
+In terminal: 
+<pre>
+    <code>
+    python3 quadratic_equation.py
+    </code>
+</pre>
+
 
 
 # How to Launch Tests

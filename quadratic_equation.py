@@ -12,4 +12,3 @@ def get_roots(a, b, c):
     elif discriminant == 0:
         return root1, None
 
-get_roots(1, 1, 1)

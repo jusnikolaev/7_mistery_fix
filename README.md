@@ -4,13 +4,26 @@ Solve roots of Quadratic Equations.
 
 # How to Use
 
-Python 3
+Call from code get_roots() method, with variables: a, b, c. 
+
 
 # How to Launch Tests
 
-```bash
-python tests.py
-```
+<pre>
+    <code>
+    python3 tests.py
+    </code>
+</pre>
+
+If success: 
+<pre>
+    <code>
+    Ran 4 tests in 0.001s
+    OK
+    </code>
+</pre>
+
+
 
 # Project Goals
 
